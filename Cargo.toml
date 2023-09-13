@@ -1,0 +1,9 @@
+[package]
+name = "fixtime"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.75"
+chrono = "0.4.30"
+libc = "0.2.148"
